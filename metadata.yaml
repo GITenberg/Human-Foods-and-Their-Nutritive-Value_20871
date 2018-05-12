@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9581'
     url: http://www.gutenberg.org/2009/agents/9581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20871#Human-Foods-and-Their-Nutritive-Value
 gutenberg_bookshelf:
 - Cookery
 - Technology
